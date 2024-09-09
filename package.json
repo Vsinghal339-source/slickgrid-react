@@ -83,11 +83,11 @@
     "/src/slickgrid-react"
   ],
   "dependencies": {
-    "@slickgrid-universal/common": "~5.6.1",
-    "@slickgrid-universal/custom-footer-component": "~5.6.1",
-    "@slickgrid-universal/empty-warning-component": "~5.6.1",
-    "@slickgrid-universal/event-pub-sub": "~5.5.2",
-    "@slickgrid-universal/pagination-component": "~5.6.1",
+    "@slickgrid-universal/common": "git+https://github.com/Vsinghal339-source/slickgrid-universal.git#cube-5.6.1",
+    "@slickgrid-universal/custom-footer-component": "git+https://github.com/Vsinghal339-source/slickgrid-universal.git#cube-5.6.1",
+    "@slickgrid-universal/empty-warning-component": "git+https://github.com/Vsinghal339-source/slickgrid-universal.git#cube-5.6.1",
+    "@slickgrid-universal/event-pub-sub": "git+https://github.com/Vsinghal339-source/slickgrid-universal.git#cube-5.6.1",
+    "@slickgrid-universal/pagination-component": "git+https://github.com/Vsinghal339-source/slickgrid-universal.git#cube-5.6.1",
     "dequal": "^2.0.3",
     "i18next": "^23.14.0",
     "sortablejs": "^1.15.2"
